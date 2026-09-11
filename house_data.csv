@@ -1,0 +1,16 @@
+Area,Bedrooms,Bathrooms,Doors,Location,Furnishing,Price
+1200,2,2,2,Bangalore,Furnished,4500000
+1500,3,2,3,Bangalore,Semi-Furnished,6200000
+900,2,1,2,Mysore,Unfurnished,2800000
+1800,3,3,3,Bangalore,Furnished,7500000
+1100,2,,2,Mysore,Semi-Furnished,3500000
+2200,4,4,4,Bangalore,Furnished,9800000
+1300,3,2,2,Mangalore,Unfurnished,4200000
+1600,3,3,,Bangalore,Furnished,6800000
+1000,2,1,2,Mysore,Unfurnished,3000000
+2500,4,4,4,Bangalore,Furnished,12000000
+1400,3,2,3,Mangalore,Semi-Furnished,5000000
+1700,3,3,3,Bangalore,Furnished,7200000
+800,1,1,1,Mysore,Unfurnished,2200000
+2000,4,3,4,Bangalore,Semi-Furnished,9000000
+1250,2,2,2,Mangalore,Furnished,4600000
